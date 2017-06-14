@@ -190,3 +190,8 @@ These are all the commands we need to write a simple migration for our database!
 [using-sql]: using_sql.html
 [using-ddl]: using_ddl.html
 [reusing-connections]: reusing_connections.html
+
+## Contributors
+
+- Sean Corfield (@seancorfield)
+- Elana Hashman (@ehashman)
